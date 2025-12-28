@@ -7,6 +7,7 @@ Xiong, S., Liu, S., Zhang, W. et al. Annotation-free genetic mutation estimation
 
 ```
 
+![alt text](workflow.png)
 
 ## Project Structure
 
@@ -29,8 +30,6 @@ The codebase is organized into three main components:
 - numpy
 
 ### Running the Pipelines
-
-![alt text](workflow.png)
 
 #### 0. Informative Region Estimation (Region-level)
 To run the region-level classification pipeline:
